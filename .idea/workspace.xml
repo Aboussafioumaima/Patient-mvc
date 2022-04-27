@@ -5,9 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6974037d-78a4-4f60-9163-2da69d65c9c5" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_extensions_groovy_extensions_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_expression_processor_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_3_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_springsecurity5_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/sec/entities/appRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/sec/entities/appUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/sec/repositories/AppRoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/sec/repositories/appUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/sec/service/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/sec/service/SecurityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/sec/service/SecurityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/sec/service/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/web/SecurityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/editPatient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/formPatients.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/template1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient-mvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/patient-mvc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/PatientMvcApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/PatientMvcApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/entities/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/entities/Patient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/web/PatientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/oum/patientmvc/web/PatientController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/patient.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/patient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oum/patientmvc/PatientMvcApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oum/patientmvc/PatientMvcApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oum/patientmvc/entities/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oum/patientmvc/entities/Patient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oum/patientmvc/repositories/PatientRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oum/patientmvc/repositories/PatientRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oum/patientmvc/web/PatientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oum/patientmvc/web/PatientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/patient.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/patient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/oum/patientmvc/PatientMvcApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/oum/patientmvc/PatientMvcApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +59,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -38,7 +81,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="27Q4cl557jbX4GL8cgTitkapn2h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -83,7 +126,7 @@
       <workItem from="1651009163116" duration="3420000" />
       <workItem from="1651015652484" duration="972000" />
       <workItem from="1651016764962" duration="1694000" />
-      <workItem from="1651018609172" duration="11434000" />
+      <workItem from="1651018609172" duration="19901000" />
     </task>
     <task id="LOCAL-00001" summary="Commit1">
       <created>1651016138873</created>
